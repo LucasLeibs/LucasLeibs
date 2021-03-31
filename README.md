@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LucasLeibs
+- 👋 Hi, I’m Lucas Leiberman 
 - 👀 I’m interested in Front-End Software Development
 - 🌱 I’m constantly learning and improving my skills by building my ideas into code :)
 
